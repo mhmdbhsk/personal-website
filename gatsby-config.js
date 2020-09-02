@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@J3ndra/personal-blog`,
+      resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
         navigation: [
